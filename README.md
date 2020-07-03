@@ -2,6 +2,15 @@
 
 Inspired by [Nate (@n0x08)](https://twitter.com/n0x08) cheatsheet, here is a version for BinaryEdge
 
+- [Queries - Hosts tab](#queries---hosts-tab)
+  * [Basics](#basics)
+  * [Firewalls, VPNs, and other services](#firewalls--vpns--and-other-services)
+  * [Databases and caches](#databases-and-caches)
+  * [Web searches](#web-searches)
+  * [SSL Searches](#ssl-searches)
+  * [Misc](#misc)
+- [Queries - Images tab](#queries---images-tab)
+
 # Queries - Hosts tab
 
 ## Basics
