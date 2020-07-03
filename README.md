@@ -33,7 +33,7 @@ you will get type:rdp + type:service-simple + type:ssl because its the 3 modules
 
 ## Firewalls, VPNs, and other services
 
-Citrix
+**Citrix**
 
 ``` web.title:"Citrix" ```
 
@@ -44,31 +44,31 @@ Citrix
 ``` "Citrix-TransactionId" ```
 
 
-Pulse VPN
+**Pulse VPN**
 
 ``` product:"Pulse Secure VPN gateway http config" ```
 
-Palo Alto
+**Palo Alto**
 
 ``` product:"Palo Alto GlobalProtect Gateway httpd" ```
 
-Juniper
+**Juniper**
 
 ``` web.title:"Juniper"```
 
-Cyberoam SSL VPN:
+**Cyberoam SSL VPN:**
 
 ``` type:ssl cyberoam ```
 
 
-Cisco
+**Cisco**
 
 ``` product:"Cisco" ```
 
 ``` web.title:"cisco" ```
 
 
-F5
+**F5**
 
 ``` web.title:"BIG-IP®- Redirect" ```
 
@@ -84,7 +84,7 @@ F5
 
 ``` web.body.content:"MRHSession" ```
 
-Gradle Server
+**Gradle Server**
 
 ``` web.body.content:"Gradle Enterprise Server" ```
 
@@ -92,7 +92,7 @@ Gradle Server
 
 ``` web.body.content:"Gradle" ```
 
-RDP Gateway
+**RDP Gateway**
 
 ``` web.body.content:"tdDomainUserNameLabel" ```
 
@@ -100,147 +100,147 @@ RDP Gateway
 
 ``` TSWAFeatureCheckCookie ```
 
-Oracle E-Business Suite
+**Oracle E-Business Suite**
 
 ``` web.title:"E-Business Suite Home Page Redirect" ```
 
 ``` web.path:"/OA_HTML/" ```
 
-Polycom Phones
+**Polycom Phones**
 
 ``` type:ssl polycom ```
 
-Webmin
+**Webmin**
 
 ``` web.title:"Webmin" ```
 
-Team City 
+**Team City**
 
 ``` web.title:"Log in to TeamCity" ```
 
 ``` "TeamCity-Node-Id" ```
 
-Barix Radio Encoder systems
+**Barix Radio Encoder systems**
 
 ``` web.favicon.mmh3:2575496402 ``` 
 
-Sonos
+**Sonos**
 
 ``` product:"Sonos" ```
 
-TP Link Gigagbit:
+**TP Link Gigagbit:**
 
 ``` TP-LINK Gigabit ```
 
 ``` product:"Router Webserver" ```
 
-TP Link:
+**TP Link:**
 
 ``` product:"TP-Link" ```
 
-Keenetic Smart Home:
+**Keenetic Smart Home:**
 
 ``` web.title:"Keenetic Web" ```
 
-Home Assistant Smart Home:
+**Home Assistant Smart Home:**
 
 ``` web.title:"Home Assistant" ```
 
-Fritz!BOX SOHO Router:
+**Fritz!BOX SOHO Router:**
 
 ``` web.title:"FRITZ!Box" ```
 
-CoSHIP SOHO:
+**CoSHIP SOHO:**
 
 ``` web.title:"EMTA" ```
 
-Broadband Routers:
+**Broadband Routers:**
 
 ``` web.body.content:"Broadband Router" ```
 
-MoviStar FIOS Router:
+**MoviStar FIOS Router:**
 
 ``` web.title:"movistar" ```
 
-Blue Iris Video surveillance:
+**Blue Iris Video surveillance:**
 
 ``` web.title:"Blue Iris Login" ```
 
-Cambrium Networks:
+**Cambrium Networks:**
 
 ``` web.title:"ePMP" ```
 
-Vmware ESXI:
+**Vmware ESXI:**
 
 ``` product:"VMware ESXi"```
 
-Exposed Kubernetes k8s
+**Exposed Kubernetes k8s**
 
 ```type:kubernetes kubernetes.auth_required:false```
 
-Server Backup Manager:
+**Server Backup Manager:**
 
 ``` web.title:"Server Backup Manager" ```
 
-DrayTek Vigor router:
+**DrayTek Vigor router:**
 
 ``` web.title:"Vigor Login Page"```
 
-APC Power (UPS)
+**APC Power (UPS)**
 
 ``` web.title:"APC | Log On"```
 
-Metasploit
+**Metasploit**
 
 ``` web.title:"metasploit" ```
 
-HP iLO3
+**HP iLO3**
 
 ``` type:ssl ssl.cert.issuer.common_name:ilo3 ```
 
-Zyxel
+**Zyxel**
 
 ```type:ssl ssl.cert.issuer.common_name:zyxel```
 
-ZTE
+**ZTE**
 
 ``` web.title:"F660" ```
 
-SonicWall:
+**SonicWall:**
 
 ``` web.title:"Policy Jump" ```
 
-Tilgin SOHO Router:
+**Tilgin SOHO Router:**
 
 ``` web.title:myhome ```
 
-ActionTec
+**ActionTec**
 
 ``` web.title:"Advanced Setup - Security - Admin User Name" ```
 
-GPON
+**GPON**
 
 ``` web.title:"GPON" ```
 
-Mikrotik
+**Mikrotik**
 
 ``` web.title:"RouterOS" ```
 
 ``` product:"mikrotik" ```
 
-Xiongmai NetSurveillance:
+**Xiongmai NetSurveillance:**
 
 ``` web.title:"NETSurveillance WEB"```
 
-WatchGuard:
+**WatchGuard:**
 
 ```type:ssl ssl.cert.issuer.common_name:"Fireware web CA"```
 
-FosCAM IP Cameras:
+**FosCAM IP Cameras:**
 
 ``` web.title:"IPCam Client" ```
 
-3CX VOIP:
+**3CX VOIP:**
 
 ``` web.title:"3CX Phone System Management Console" ```
 
