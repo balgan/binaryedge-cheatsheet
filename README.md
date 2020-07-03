@@ -15,6 +15,10 @@ you will get type:rdp + type:service-simple + type:ssl because its the 3 modules
 
 ```product:"OpenSSH" ```
 
+**Search inside a banner**
+
+```type:service-simple banner:"LANCOM Systems"```
+
 **Product version minor AND bigger than (between X and Y)**
 
 ``` product:"nginx" version:>1.10.3 version:<1.14.0 ```
@@ -351,7 +355,6 @@ Verifying if the latest dataleak on the news was found via Binaryedge - replace 
 **RSYNC** - look for the word Linux on the content of open rsync servers
 
 ``` type:rsync rsync.banner:linux```
-
 
 # Queries - Images tab
 
