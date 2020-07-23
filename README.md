@@ -16,7 +16,9 @@ Inspired by [Nate (@n0x08)](https://twitter.com/n0x08) cheatsheet, here is a ver
 ## Basics
 **Port open** - Binaryedge uses modules, that means for example for RDP with
 
-``` port:3389 ```
+``` port:3389 ``` 
+
+![⏩](https://app.binaryedge.io/services/query?query=port:3389&page=1)
 
 you will get type:rdp + type:service-simple + type:ssl because its the 3 modules we use on the world wide scans
 
