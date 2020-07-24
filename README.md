@@ -372,7 +372,7 @@ Verifying if the latest dataleak on the news was found via Binaryedge - replace 
 
 Looking for RDNS
 
-```rdns:verizon.com``` [⏩](https://app.binaryedge.io/services/images?query=rdns:verizon.com&page=1)
+```rdns_parent:verizon.com``` [⏩](https://app.binaryedge.io/services/images?query=rdns_parent:uminho.pt&page=1)
 
 Looking for VNC in the United states
 
