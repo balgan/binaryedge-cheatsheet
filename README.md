@@ -52,6 +52,9 @@ you will get type:rdp + type:service-simple + type:ssl because its the 3 modules
 
 ```web.favicon.md5:8a185957a6b153314bab3668b57f18f4```[⏩](https://app.binaryedge.io/services/query?query=web.favicon.md5:8a185957a6b153314bab3668b57f18f4) 
 
+```web.path.keyword: "/mifs/user/login.jsp"```[⏩](https://app.binaryedge.io/services/query?query=web.path.keyword:%20%22%2Fmifs%2Fuser%2Flogin.jsp%22) 
+
+
 **Citrix**
 
 ``` web.title:"Citrix" ``` [⏩](https://app.binaryedge.io/services/query?query=web.title:%22Citrix%22&page=1)
