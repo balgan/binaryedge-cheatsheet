@@ -48,9 +48,9 @@ you will get type:rdp + type:service-simple + type:ssl because its the 3 modules
 
 **Mobile Iron**
 
-```web.favicon.md5:c3ee66d45636052a69bab53600f2f878```[⏩](https://portal.binaryedge.io/services/query?query=web.favicon.md5:c3ee66d45636052a69bab53600f2f878)
+```web.favicon.md5:c3ee66d45636052a69bab53600f2f878```[⏩](https://app.binaryedge.io/services/query?query=web.favicon.md5:c3ee66d45636052a69bab53600f2f878)
 
-```web.favicon.md5:8a185957a6b153314bab3668b57f18f4```[⏩](https://portal.binaryedge.io/services/query?query=web.favicon.md5:8a185957a6b153314bab3668b57f18f4) 
+```web.favicon.md5:8a185957a6b153314bab3668b57f18f4```[⏩](https://app.binaryedge.io/services/query?query=web.favicon.md5:8a185957a6b153314bab3668b57f18f4) 
 
 **Citrix**
 
